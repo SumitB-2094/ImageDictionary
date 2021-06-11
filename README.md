@@ -14,6 +14,8 @@ Lets summarize, here are the steps,
 ● Calculate the similarities with all images (automatically model will do)
 ● Retrieve the most similar result (eg. if 1.car then, car displays car and if 2.cycle then, displays cycles)
 To specify the architecture, we will use VGG-16 architecture and pretrained weight from the ImageNet.
+
+Below are the query and result images:
 ![car query-results](https://user-images.githubusercontent.com/78255846/121711613-6e876800-caf8-11eb-8604-281495262030.jpg)
 ![cycle query-results](https://user-images.githubusercontent.com/78255846/121711620-6fb89500-caf8-11eb-8b8d-7ef70a73ac78.jpg)
 ![bike query-results](https://user-images.githubusercontent.com/78255846/121711624-70512b80-caf8-11eb-8a85-e089199456f1.jpg)
